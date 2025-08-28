@@ -13,7 +13,7 @@
 
 # Zsombor Czaban
 
-#### Krööpilänkatu 4C 42B, Turku, 60210
+#### Otaranta 8 E 122, Espoo, 02150
 #### +36 30 814 7614
 #### zsombor130@gmail.com
 <br>
@@ -24,16 +24,13 @@
 ### Taboola / Algorithm Engineer Intern
 Sept 2023 - Jan 2024, Budapest
 
-At Taboola, I worked on their e-commerce recommendation system and I helped to develop in-house solutions to various problems.
-I got used to the Big Tech company environment and learned a lot in the meantime. 
+At Taboola, the world’s largest discovery platform, I worked on the e-commerce recommendation system and developed in-house solutions for various challenges.
 <br><br>
 
 ### BitKnights / Junior ServiceNow Developer
 Jun 2022 - Sept 2023, Budapest
 
-During my time at BitKnights I was working on several projects. Including  ITSM implementations,  merges and maintenances.
-I learned the fundamentals of agile software development, and also improved my teamwork skills.
-I also got hands-on experience about how complicated big systems can get, and why clean and simple code/infrastructure is important.
+I secured this job in my first year of university after an interview that came about due to a mix-up on my resume—they thought I was in my second year. I ended up acing the interview and was hired. I’m still proud of that to this day.
 <br><br>
 
 ### Dr.Code / Teacher
@@ -46,39 +43,46 @@ Working as a teacher taught me how important communication is.
 ---
 # Education
 
-### Åbo Akademi
-Jan 2024 - Present,  Turku
+### ICT Innovation
+Sept 2025 - Now, Finland & Greece
 
-I’m an exchange student at Åbo Akademi. I take computer science courses from both Åbo Akademi and The University of Turku.
+I’m pursuing a double degree in Autonomous Systems and Intelligent Robots at Aalto University and Marine Robotics at the University of the Aegean through the ICT Innovation program.
 <br><br>
 
 ### Eötvös Loránd Tudományegyetem
-Sept 2021 - Present,  Budapest
+Sept 2021 - May 2025, Hungary
 
-I study computer science at ELTE in Hungary.
-I only have my thesis left to write after my exchange to get my Bsc.
+I completed my BSc in Computer Science at ELTE, with a semester abroad at Åbo Akademi University in Finland through the Erasmus program.
 <br><br><br><br>
 
 ---
 # Skills
 
 
-I have worked with: Java, Python, Javascript, Typescript, Vue, Kubernetes, Jenkins, ClickHouse, Sql, MySql, ServiceNow, Jira
+I generally work well with everything and learn quickly.
 
-I’m also great with: C++, C#, Php, React, Laravel, Haskel, Flutter
+I have previous work experience with: Go, React, Docker, Java, Python, Kubernetes, Typescript, ServiceNow
 
-I’m fluent in english (I have a C1 language exam certificate)
-And I’m getting better in Finnish day by day!
+I’m fluent in english, beginner in finnish and native in hungarian
 <br><br><br><br>
 
 ---
 # About me
 
 
-I’m an Hungarian exchange student living in Finland. I love the Finnish culture, and the mentality of the Finnish people. I’m planning to move here, or at least do my masters at a Finnish university.
+I’m a curious mind who seeks a deeper understanding of everything I dive into.
 
-I’m always eager to learn. I‘m really passionate about the field of AI, and I love algorithms.
-I try to broaden my horizons as much as I can, so I can have a solid foundation to start my career off from. 
+
+I prefer to minimize my time on social media, stay productive, and play games with friends.
+
+I enjoy extreme sport (skiing/snowboarding, scuba diving, skydiving, bouldering)
+<br><br><br><br>
+
+---
+# Favoutite Books
+
+
+Favourite books here
 <br><br><br><br>
 
 ---
