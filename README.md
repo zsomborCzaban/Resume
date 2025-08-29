@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1B9nnMSums4t759HmX_Zc-f7zXM9boYkg?usp=sha
 ### ICT Innovation
 Sept 2025 - May 2027, Finland & Greece
 
-I’m pursuing a **double degree** in **Autonomous Systems and Intelligent Robots** at Aalto University and **Marine Robotics** at the University of the Aegean through the ICT Innovation program.
+I’m pursuing a **dual master's degree** in **Autonomous Systems and Intelligent Robots** at Aalto University and **Marine Robotics** at the University of the Aegean through the ICT Innovation program.
 <br><br>
 
 ### Eötvös Loránd Tudományegyetem
