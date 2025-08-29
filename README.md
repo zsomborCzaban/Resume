@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </strong>
   <p/>
-  <p>You can check out my resume by scrolling down ^^. Or download a slightly modified version (Resume_en.pdf).<p/>
+  <p>You can check out my resume by scrolling down ^^. Or download a slightly modified version (Resume_en.pdf).<br>(Don't forget to check out the reference letter too!)</p>
 </div>
 
 
@@ -37,7 +37,7 @@ At Taboola, the world’s largest discovery platform, I worked on the e-commerce
 Jun 2022 - Sept 2023, Hungary
 
 I secured this job in my first year of university after an interview that came about due to a mix-up on my resume — they thought I was in my second year. I ended up **acing the interview** and was hired. I’m still **proud** of that to this day.
-<br><br>
+<br><br><br>
 
 
 ---
@@ -51,12 +51,13 @@ https://github.com/zsomborCzaban/party_organizer
 <br><br><br>
 A city building game, made for a university group project. (coded in Java):<br>
 https://drive.google.com/drive/folders/1B9nnMSums4t759HmX_Zc-f7zXM9boYkg?usp=sharing
+<br><br><br>
 
 ---
 # Education
 
 ### ICT Innovation
-Sept 2025 - Now, Finland & Greece
+Sept 2025 - May 2027, Finland & Greece
 
 I’m pursuing a **double degree** in **Autonomous Systems and Intelligent Robots** at Aalto University and **Marine Robotics** at the University of the Aegean through the ICT Innovation program.
 <br><br>
@@ -65,7 +66,7 @@ I’m pursuing a **double degree** in **Autonomous Systems and Intelligent Robot
 Sept 2021 - May 2025, Hungary
 
 I completed my **BSc** in **Computer Science** at ELTE, with a semester abroad at **Åbo Akademi** University in Finland through the **Erasmus** program.
-<br><br><br><br>
+<br><br><br>
 
 ---
 # Skills
@@ -76,7 +77,7 @@ I generally **work well with everything** and **learn quickly**.
 I have previous work experience with: **Go, React, Docker, Java, Python, Kubernetes, Typescript, ServiceNow**
 
 I’m fluent in **english**, beginner in **finnish** and native in **hungarian**
-<br><br><br><br>
+<br><br><br>
 
 ---
 # About me
@@ -87,7 +88,7 @@ I’m a curious mind who seeks a **deeper understanding** of everything I dive i
 I prefer to minimize my time on social media, **stay productive**, and play games with friends.
 
 I enjoy **extreme sport** (skiing/snowboarding, scuba diving, skydiving, bouldering)
-<br><br><br><br>
+<br><br><br>
 
 ---
 # Favourite Books
@@ -97,7 +98,7 @@ I enjoy **extreme sport** (skiing/snowboarding, scuba diving, skydiving, boulder
   
   <img src="images/the-hobbit-1989-paperback.webp" width="330" hspace="50">
 </p>
-<br><br><br><br>
+<br><br><br>
 
 ---
 # Highschool awards
