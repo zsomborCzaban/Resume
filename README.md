@@ -21,19 +21,19 @@
 ---
 # Workexperience 
 
-### GE Healthcare / Software Engineer Intern
+### GE Healthcare / Software Engineer Intern (1 year)
 Jun 2024 - Aug 2025, Hungary
 
 As one of three core developers, I made a **major impact** on a Customer Onboarding Tool, taking it **from PoC** **to MVP** and then **to Milestone 1**.<br>I worked across the **full stack** (Go backend, TypeScript frontend), enhanced internal engineering tools via **REST API integration**, and gained end-to-end **experience in enterprise software development**, from design and implementation to testing and deployment.
 <br><br>
 
-### Taboola / Algorithm Engineer Intern
+### Taboola / Algorithm Engineer Intern (0.5 year)
 Sept 2023 - Jan 2024, Budapest
 
 At Taboola, the world’s largest discovery platform, I worked on the e-commerce **recommendation system** and developed in-house solutions for various challenges.
 <br><br>
 
-### BitKnights / Junior ServiceNow Developer
+### BitKnights / Junior ServiceNow Developer (1.5 year)
 Jun 2022 - Sept 2023, Hungary
 
 I secured this job in my first year of university after an interview that came about due to a mix-up on my resume — they thought I was in my second year. I ended up **acing the interview** and was hired. I’m still **proud** of that to this day.
@@ -62,7 +62,7 @@ Sept 2025 - May 2027, Finland & Greece
 I’m pursuing a **dual master's degree** in **Autonomous Systems and Intelligent Robots** at Aalto University and **Marine Robotics** at the University of the Aegean through the ICT Innovation program.
 <br><br>
 
-### Eötvös Loránd Tudományegyetem
+### ELTE University
 Sept 2021 - May 2025, Hungary
 
 I completed my **BSc** in **Computer Science** at ELTE, with a semester abroad at **Åbo Akademi** University in Finland through the **Erasmus** program.
