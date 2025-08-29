@@ -98,7 +98,7 @@ I enjoy **extreme sport** (skiing/snowboarding, scuba diving, skydiving, boulder
   
   <img src="images/the-hobbit-1989-paperback.webp" width="330" hspace="30">
 </p>
-<br><br><br>
+<br>
 
 ---
 # Highschool awards
