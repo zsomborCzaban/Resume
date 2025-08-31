@@ -93,11 +93,10 @@ I enjoy **extreme sport** (skiing/snowboarding, scuba diving, skydiving, boulder
 ---
 # Favourite Books
 
-<p align="center">
-  <img src="images/clean_architecture.webp" width="383" hspace="30">
-  
-  <img src="images/the-hobbit-1989-paperback.webp" width="330" hspace="30">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img alt="Clean Architecture" src="images/clean_architecture.webp" width="48%">
+  <img alt="The Hobbit" src="images/the-hobbit-1989-paperback.webp" width="41.5%">
+</div>
 <br>
 
 ---
