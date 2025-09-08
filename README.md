@@ -5,7 +5,7 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </strong>
-  <p/>
+  </p>
   <p>You can check out my resume by scrolling down ^^. Or download a slightly modified version (Resume_en.pdf).<br>(Don't forget to check out the recommendation letter too!)</p>
 </div>
 
