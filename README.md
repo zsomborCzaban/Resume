@@ -43,11 +43,11 @@ I secured this job in my first year of university after an interview that came a
 ---
 # Reference works
 
-Solutions for the Code of Advent coding challange:<br>
-https://github.com/zsomborCzaban/Code_of_Advent
-<br><br><br>
 A website for organizing parites:<br>
 https://github.com/zsomborCzaban/party_organizer
+<br><br><br>
+Solutions for the Code of Advent coding challange:<br>
+https://github.com/zsomborCzaban/Code_of_Advent
 <br><br><br>
 A city building game, made for a university group project. (coded in Java):<br>
 https://drive.google.com/drive/folders/1B9nnMSums4t759HmX_Zc-f7zXM9boYkg?usp=sharing
