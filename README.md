@@ -72,7 +72,8 @@ I completed my **BSc** in **Computer Science** at ELTE, with a semester abroad a
 # Skills
 
 
-I generally **work well with everything** and **learn quickly**.
+My strong points are **logic**, **algorithms** and **enthusiasm**.
+
 
 I have previous work experience with: **Go, React, Docker, Java, Python, Kubernetes, Typescript, ServiceNow**
 
