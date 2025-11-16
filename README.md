@@ -27,7 +27,7 @@ Jun 2024 - Aug 2025, Hungary
 As one of three core developers, I made a **major impact** on a Customer Onboarding Tool, taking it **from PoC** **to MVP** and then **to Milestone 1**.<br>I worked across the **full stack** (Go backend, TypeScript frontend), enhanced internal engineering tools via **REST API integration**, and gained end-to-end **experience in enterprise software development**, from design and implementation to testing and deployment.
 <br><br>
 
-### Taboola / Algorithm Engineer Intern (0.5 year)
+### Taboola / Algorithm Engineer (0.5 year)
 Sept 2023 - Jan 2024, Budapest
 
 At Taboola, the world’s largest discovery platform, I worked on the e-commerce **recommendation system** and developed in-house solutions for various challenges.
