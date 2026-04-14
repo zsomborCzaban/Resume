@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1B9nnMSums4t759HmX_Zc-f7zXM9boYkg?usp=sha
 ### ICT Innovation
 Sept 2025 - May 2027, Finland & Greece
 
-I’m pursuing a **dual master's degree** in **Autonomous Systems and Intelligent Robots** at Aalto University in Finland.
+I’m pursuing a **dual master's degree** in **Autonomous Systems and Intelligent Robots** at Aalto University in Finland and in **Maritime Robotics** at University of the Aegean in Greece.
 <br><br>
 
 ### ELTE University
